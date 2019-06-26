@@ -46,7 +46,7 @@ while True:
 
 ### [CircuitPython](https://circuitpython.readthedocs.io/en/latest/docs/index.html)
 
-CircuitPython is a beginner friendly, open source version of Python for tiny, inexpensive computers called microcontrollers. 
+CircuitPython is a fork of MicroPython with the goal of being beginner friendly and targeted for use on microcontrollers. 
 
 ```python
 """Hello World! from CircuitPython"""
@@ -130,4 +130,6 @@ CircuitPython comes 'with the kitchen sink' - a lot of the things you know and l
 - [Evaluation of MicroPython as Application Layer Programming Language on CubeSats](https://ieeexplore.ieee.org/document/7948548)
 
 
-Content taken from `python_for_embedded_systems.ipynb`. Reference for the most up to date content.
+```python
+
+```
